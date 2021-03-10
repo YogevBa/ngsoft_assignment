@@ -1,0 +1,15 @@
+.mainScreenContainer {
+  width: 60%;
+  background-color: white;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  box-shadow: 10px 15px 3px #757575;
+}
+
+.wizardTitle {
+  color: rgb(80, 80, 255);
+  font-weight: 500;
+  font-size: 35px;
+  text-align: center;
+  padding: 10px;
+}

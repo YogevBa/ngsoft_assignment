@@ -1,0 +1,15 @@
+.header {
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: rgb(40, 143, 146);
+}
+
+.header h1 {
+  padding: 7px;
+  font-size: 40px;
+  font-family: serif;
+  letter-spacing: 6px;
+}

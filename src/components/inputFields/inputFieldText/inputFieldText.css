@@ -1,0 +1,13 @@
+.error {
+  color: red;
+  padding-top: 10px;
+}
+
+.inputStyle {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 5px 25px 0;
+  min-width: 300px;
+}

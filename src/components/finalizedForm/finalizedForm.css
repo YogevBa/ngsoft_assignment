@@ -1,0 +1,41 @@
+.finalizedFormContainer {
+  direction: rtl;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+p {
+  width: 50%;
+  margin-bottom: 10px;
+}
+
+.seperator {
+  width: 100%;
+  border-bottom: 3px solid white;
+}
+
+.userDetailsStyles {
+  display: flex;
+  padding: 10px;
+  flex-flow: row wrap;
+  justify-content: center;
+  background-color: rgb(204, 204, 204);
+  box-shadow: 10px 15px 3px #757575;
+  width: 90%;
+}
+
+.materialsInfoStyles {
+  display: flex;
+  width: 90%;
+  padding: 10px;
+  margin-top: 25px;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  background-color: rgb(204, 204, 204);
+  box-shadow: 10px 15px 3px #757575;
+}
+
+.actionsContainer {
+  width: 100%;
+}
